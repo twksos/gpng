@@ -1,0 +1,7 @@
+# Logfile created on 2014-01-27 10:24:13 +0800 by logger.rb/41954
+I, [2014-01-27T10:24:13.285413 #51185]  INFO -- : 0:  chunky_png (1.2.9) from /Users/gcwei/.rvm/gems/ruby-2.0.0-p353@gpng/specifications/chunky_png-1.2.9.gemspec
+I, [2014-01-27T10:24:13.286673 #51185]  INFO -- : 0:  bundler (1.5.1) from /Users/gcwei/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
+I, [2014-01-27T13:56:05.952696 #68940]  INFO -- : 0:  chunky_png (1.2.9) from /Users/gcwei/.rvm/gems/ruby-2.0.0-p353@gpng/specifications/chunky_png-1.2.9.gemspec
+I, [2014-01-27T13:56:05.953344 #68940]  INFO -- : 0:  bundler (1.5.1) from /Users/gcwei/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
+I, [2014-01-27T13:56:57.601762 #68964]  INFO -- : 0:  chunky_png (1.2.9) from /Users/gcwei/Library/Application Support/Alfred 2/Alfred.alfredpreferences/workflows/user.workflow.584E7986-0894-4AC2-AC02-5457957B5271/vendor/ruby/2.0.0/specifications/chunky_png-1.2.9.gemspec
+I, [2014-01-27T13:56:57.602102 #68964]  INFO -- : 0:  bundler (1.5.1) from /Users/gcwei/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/source

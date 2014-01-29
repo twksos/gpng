@@ -1,0 +1,11 @@
+GEM
+  remote: http://ruby.taobao.org/
+  specs:
+    chunky_png (1.2.9)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler
+  chunky_png
