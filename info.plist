@@ -4,6 +4,8 @@
 <dict>
 	<key>bundleid</key>
 	<string>gpng</string>
+	<key>category</key>
+	<string>Productivity</string>
 	<key>connections</key>
 	<dict>
 		<key>7DD3BDE5-A157-42E5-9376-F681FB50A4EE</key>
@@ -49,6 +51,7 @@
 				<string>Generating</string>
 				<key>script</key>
 				<string>[[ -s "$HOME/.rvm/scripts/rvm" ]] &amp;&amp; source "$HOME/.rvm/scripts/rvm"
+git pull
 ruby gpng.rb {query}</string>
 				<key>subtext</key>
 				<string>Generate Base64 code for an png image.</string>
